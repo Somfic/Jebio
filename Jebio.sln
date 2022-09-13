@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jebio", "Jebio\Jebio.csproj", "{95FB6D0B-062E-4E09-9D6D-480D6758365A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox", "Sandbox\Sandbox.csproj", "{32C4CCEC-956B-4016-A5B9-5C90389A439D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FB6D0B-062E-4E09-9D6D-480D6758365A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FB6D0B-062E-4E09-9D6D-480D6758365A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FB6D0B-062E-4E09-9D6D-480D6758365A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FB6D0B-062E-4E09-9D6D-480D6758365A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C4CCEC-956B-4016-A5B9-5C90389A439D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C4CCEC-956B-4016-A5B9-5C90389A439D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C4CCEC-956B-4016-A5B9-5C90389A439D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C4CCEC-956B-4016-A5B9-5C90389A439D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
